@@ -3,5 +3,4 @@
 A Flutter project.
 
 ## How it looks:
-
-![How the App looks](<assets/images/ToDo App look.jpg>)
+<img src="assets/images/ToDo App look.jpg"  width="50%" height="30%">
